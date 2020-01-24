@@ -40,6 +40,7 @@
 
 ## 相关资源
 
+- [文库版图源](https://rezero.fandom.com/wiki/Re:Zero_kara_Hajimeru_Isekai_Seikatsu)
 - [日文原版（需翻墙）](http://ncode.syosetu.com/n2267be/)
 - [汉化整合（百度贴吧）](https://tieba.baidu.com/p/4974060711?red_tag=0820409600)
 - 汉化整合（巴哈姆特）：[【三四章】](https://home.gamer.com.tw/creationDetail.php?sn=3279407)[【五章】](https://home.gamer.com.tw/creationDetail.php?sn=3686795)
@@ -74,10 +75,10 @@
 | EPUB<br/>第 15 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter040/00-k.jpg"> | [腾讯微云](https://share.weiyun.com/5nx8OoV)<br/>（4pmsxb） | <ul><li><b>起</b>：【第四章】 123 『猎肠者VS圣域之盾』</li><li><b>止</b>：【第四章】 蛇足 『再临』</li></ul> |
 | EPUB<br/>第 16 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-a.jpg"> | [腾讯微云](https://share.weiyun.com/5sX0q7P)<br/>（9qsp4y） | <ul><li><b>起</b>：【第五章】 01 『事情的起头总是由到访者开始』</li><li><b>止</b>：【第五章】 20 『共相高涨的情绪』</li></ul> |
 | EPUB<br/>第 17 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-c.jpg"> | [腾讯微云](https://share.weiyun.com/54yiuf6)<br/>（dw5txm） | <ul><li><b>起</b>：【第五章】 21 『最佳的解法』</li><li><b>止</b>：【第五章】 36 『爱的起点与终点』</li></ul> |
-| EPUB<br/>第 18 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-e.jpg"> | [腾讯微云](https://share.weiyun.com/5grVLUR)<br/>（i639w8） | <ul><li><b>起</b>：【第五章】 37 『重整旗鼓』</li><li><b>止</b>：【第五章】 48 『真正喜欢的人』</li></ul><br/><i>（这卷改动略大，文库版 把时间线和对战搭配调整了）</i> |
-| EPUB<br/>第 19 卷 | - | - | - |
-| EPUB<br/>第 20 卷 | - | - | - |
-| EPUB<br/>第 21 卷 | - | - | - |
+| EPUB<br/>第 18 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-e.jpg"> | [腾讯微云](https://share.weiyun.com/5grVLUR)<br/>（i639w8） | <ul><li><b>起</b>：【第五章】 37 『重整旗鼓』</li><li><b>止</b>：【第五章】 48 『真正喜欢的人』</li></ul> |
+| EPUB<br/>第 19 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-g.jpg"> | - | <ul><li><b>起</b>：【第五章】 49 『强欲攻略战开幕』</li><li><b>止</b>：【第五章】 59 『雷格鲁斯·柯尼亚斯』</li></ul> |
+| EPUB<br/>第 20 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter050/00-h.jpg"> | - | <ul><li><b>起</b>：【第五章】 60 『一波方平，一波又起』</li><li><b>止</b>：【第五章】 幕間 『温暖的名字』</li></ul> |
+| EPUB<br/>第 21 卷 | <img width="120" src="https://github.com/lyy289065406/re0-web/blob/master/gitbook/res/img/article/chapter060/00-a.jpg"> | - | <ul><li><b>起</b>：【第六章】 01 『龙车归途路』</li><li><b>止</b>：【第六章】 18 『砂塔的看守者』</li></ul> |
 
 ------
 
